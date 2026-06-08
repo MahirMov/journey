@@ -1,9 +1,9 @@
 # my first devops project
 
-a multi ontainer app built with docker and ddocker compose
+a multi container app built with docker and docker compose
 
 ## Stack
-nginx - static html server on port 80
+nginx - static HTML server on port 80
 Flask (python) - a simple python web app on port 5000
 
 ## How to run

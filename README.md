@@ -7,7 +7,10 @@ nginx - static HTML server on port 80
 Flask (python) - a simple python web app on port 5000
 
 ## How to run
+```
 git clone https://github.com/MahirMov/journey.git
-cd journey
-docker compose up -d
 
+cd journey
+
+docker compose up -d
+```
